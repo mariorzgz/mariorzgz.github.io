@@ -1,7 +1,10 @@
-# Hi 👋, I'm Mario
-I'm from Spain
+# Hello/hola/hallo I'm Mario!
 
-- 📫 How to reach me **mario.rod.gonz97@gmail.com**
+I'm a spanish _web developer_ and _graphic designer_
+I'm based in Munich, Germany
+
+- You can check my awesome website -> **[my awesome website](https://mariorzgz.me/)**
+- ... or if you really want to get in touch with me you can send me an email -> **mario.rod.gonz97@gmail.com**
 
 ## Connect with me
 
