@@ -1,6 +1,7 @@
 # Hello/hola/hallo I'm Mario!
 
 I'm a spanish _web developer_ and _graphic designer_
+
 I'm based in Munich, Germany
 
 - You can check my awesome website -> **[my awesome website](https://mariorzgz.me/)**
